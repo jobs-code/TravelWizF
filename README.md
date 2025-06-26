@@ -24,7 +24,6 @@ An AI-powered travel planning web app built during a hackathon by **jobs-code**,
 
 ## 🖼️ UI Preview
 
-> Replace these with actual screenshots
 
 ![Landing Page](s1.png)  
 
