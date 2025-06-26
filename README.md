@@ -1,6 +1,6 @@
 # ✈️ Travel Wiz — AI Itinerary Planner
 
-An AI-powered travel planning web app built during a hackathon by **jobs-code**, [**Kesarinath**](https://github.com/kesarinath), [**Yousuf**](https://github.com/55suhail), and [**Karthick**](https://github.com/karthicktouches). It generates smart, personalized travel itineraries using natural language input.
+An AI-powered travel planning web app built during Hack In Hub 2023 a hackathon by **jobs-code**, [**Kesarinath**](https://github.com/kesarinath), [**Yousuf**](https://github.com/55suhail), and [**Karthick**](https://github.com/karthicktouches). It generates smart, personalized travel itineraries using natural language input.
 
 ---
 
